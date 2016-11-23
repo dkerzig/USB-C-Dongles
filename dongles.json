@@ -65,8 +65,8 @@
       "name" : "CB-C27",
       "company": "AUKEY",
       "url": "https://www.amazon.com/Charging-MacBook-ChromeBook-Aspire-Devices/dp/B01ESWAVKE/ref=sr_1_5?ie=UTF8&qid=1479432500&sr=8-5&keywords=usb+c",
-      "image": "aukey_05.png",
-      "image_credit": "AUKEY",
+      "image": "aukey_05.jpg",
+      "image_credit": "Amazon",
       "properties": {
         "usb3" : 4,
         "vga" : 1,
