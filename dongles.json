@@ -1,0 +1,162 @@
+{
+  "dongles" : [
+    {
+      "name" : "USB-C to USB 3.0 Adapter",
+      "company": "Anker",
+      "url": "https://www.anker.com/products/A8161011",
+      "image": "anker_01.jpg",
+      "image_credit": "Anker",
+      "properties": {
+        "usb3" : 1,
+        "shipsNow": true
+      }
+    },
+    {
+      "name" : "3x CB-A2",
+      "company": "AUKEY",
+      "url": "http://www.aukey.com/products/micro-usb-to-usb-c-adapters-3-pack/",
+      "image": "aukey_01.png",
+      "image_credit": "AUKEY",
+      "properties": {
+        "micro_usb" : 1,
+        "shipsNow": true
+      }
+    },
+    {
+      "name" : "CB-C25",
+      "company": "AUKEY",
+      "url": "https://www.amazon.com/Ethernet-Charging-Macbook-ChromeBook-Aspire/dp/B01DTQZTX4/ref=sr_1_1?ie=UTF8&qid=1479864784&sr=8-1&keywords=cb-c25",
+      "image": "aukey_03.jpg",
+      "image_credit": "Amazon",
+      "properties": {
+        "usb3" : 3,
+        "usb_c" : 1,
+        "ethernet" : 1,
+        "canLoad": true,
+        "shipsNow": true
+      }
+    },
+    {
+      "name" : "CB-C26",
+      "company": "AUKEY",
+      "url": "http://www.aukey.com/products/usb-c-hub-with-4-usb-3-0-ports-1-hdmi-port-usb-c-input-charging-port/",
+      "image": "aukey_02.png",
+      "image_credit": "AUKEY",
+      "properties": {
+        "usb3" : 4,
+        "hdmi" : 1,
+        "usb_c" : 1,
+        "canLoad": true,
+        "shipsNow": true
+      }
+    },
+    {
+      "name" : "CB-C38",
+      "company": "AUKEY",
+      "url": "http://www.aukey.com/products/usb-c-to-vga-adapter/",
+      "image": "aukey_04.png",
+      "image_credit": "AUKEY",
+      "properties": {
+        "vga" : 1,
+        "shipsNow": true
+      }
+    },
+    {
+      "name" : "CB-C27",
+      "company": "AUKEY",
+      "url": "https://www.amazon.com/Charging-MacBook-ChromeBook-Aspire-Devices/dp/B01ESWAVKE/ref=sr_1_5?ie=UTF8&qid=1479432500&sr=8-5&keywords=usb+c",
+      "image": "aukey_05.png",
+      "image_credit": "AUKEY",
+      "properties": {
+        "usb3" : 4,
+        "vga" : 1,
+        "usb_c" : 1,
+        "canLoad": true,
+        "shipsNow": true
+      }
+    },
+    {
+      "name" : "HT-UC001B",
+      "company": "HooToo",
+      "url": "http://www.hootoo.com/dp/B019R9ILTG",
+      "image": "hootoo_01.jpg",
+      "image_credit": "HooToo",
+      "properties": {
+        "usb3" : 3,
+        "sd_card" : 1,
+        "hdmi" : 1,
+        "usb_c" : 1,
+        "canLoad" : true,
+        "shipsNow": true
+      }
+    },
+    {
+      "name" : "HT-UC002",
+      "company": "HooToo",
+      "url": "http://www.hootoo.com/dp/B019R9KAUE",
+      "image": "hootoo_02.jpg",
+      "image_credit": "HooToo",
+      "properties": {
+        "usb3" : 3,
+        "sd_card" : 1,
+        "hdmi" : 1,
+        "shipsNow": true
+      }
+    },
+    {
+      "name" : "HT-UC003",
+      "company": "HooToo",
+      "url": "http://www.hootoo.com/dp/B019R9NDYO",
+      "image": "hootoo_03.jpg",
+      "image_credit": "HooToo",
+      "properties": {
+        "usb3" : 3,
+        "sd_card" : 1,
+        "shipsNow": true
+      }
+    },
+    {
+      "name" : "HT-UC004",
+      "company": "HooToo",
+      "url": "http://www.hootoo.com/dp/B01B2OYFBM",
+      "image": "hootoo_04.jpg",
+      "image_credit": "HooToo",
+      "properties": {
+        "usb3" : 3,
+        "sd_card" : 1,
+        "usb_c" : 1,
+        "canLoad" : true,
+        "shipsNow": true
+      }
+    },
+    {
+      "name" : "Type C USB 3.1 Hub",
+      "company": "VicTsing",
+      "url": "https://www.amazon.com/VicTsing-Female-Charger-Adapter-Chromebook/dp/B01BSJVY7Y",
+      "image": "victsing_01.jpg",
+      "image_credit": "VicTsing",
+      "properties": {
+        "usb3" : 1,
+        "hdmi" : 1,
+        "usb_c" : 1,
+        "canLoad": true,
+        "shipsNow": true
+      }
+    },
+    {
+      "name" : "Type C USB 3.1 Hub",
+      "company": "VicTsing",
+      "url": "https://www.amazon.com/VicTsing-Female-Charger-Adapter-Chromebook/dp/B01BSJVYCE?th=1",
+      "image": "victsing_02.jpg",
+      "image_credit": "VicTsing",
+      "properties": {
+        "usb3" : 1,
+        "vga" : 1,
+        "usb_c" : 1,
+        "canLoad": true,
+        "shipsNow": true
+      }
+    }
+
+  ]
+}
