@@ -15,17 +15,18 @@ Chat with me on Twitter: [@wottpal](https://twitter.com/wottpal)
 | `image` | String (Filename) | ✅ | Is the name of the product-image stored under `images/` (see section *Images*). |
 | `image_credit` | String | ✅ | Where the image-credit belongs to. (see section *Images*). |
 | `properties` | Object | ✅ | A set of key-value pairs describing the capabilities of the dongle (i.e. availability of ports) |
-| `properties.usb_c` | Int |  | ∑ USB-C ports |
-| `properties.usb3` | Int |  | ∑ USB-C ports |
-| `properties.ethernet` | Int |  | ∑ USB-C ports |
-| `properties.hdmi` | Int |  | ∑ USB-C ports |
-| `properties.vga` | Int |  | ∑ USB-C ports |
-| `properties.sd_card` | Int |  | ∑ USB-C ports |
-| `properties.micro_sd_card` | Int |  | ∑ USB-C ports |
-| `properties.audio_jack` | Int |  | ∑ USB-C ports |
-| `properties.externalPowerNeeded` | Int |  | ∑ USB-C ports |
-| `properties.shipsNow` | Int |  | ∑ USB-C ports |
-| `properties.canLoad` | Int |  | ∑ USB-C ports |
+| `properties.usb_c` | Int |  | ∑ ports |
+| `properties.usb3` | Int |  | ∑ ports |
+| `properties.micro_usb` | Int |  | ∑ ports |
+| `properties.ethernet` | Int |  | ∑ ports |
+| `properties.hdmi` | Int |  | ∑ ports |
+| `properties.vga` | Int |  | ∑ ports |
+| `properties.sd_card` | Int |  | ∑ ports |
+| `properties.micro_sd_card` | Int |  | ∑ ports |
+| `properties.audio_jack` | Int |  | ∑ ports |
+| `properties.externalPowerNeeded` | Int |  | ∑ ports |
+| `properties.shipsNow` | Int |  | ∑ ports |
+| `properties.canLoad` | Int |  | ∑ ports |
 
 
 
@@ -38,4 +39,3 @@ The file-name (with extension) which is stored in the `image`-property should be
 
 - [ ]  Find more dongles
 - [ ]  Add internationalized shopping-links & availability reports
-
